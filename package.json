@@ -1,6 +1,6 @@
 {
     "name": "manishdas",
-    "version": "2.2.3",
+    "version": "2.2.4",
     "author": "Manish Das <rahikhan360@gmail.com> (https://rahikhan.gtsb.io)",
     "description": "A personal card for Rahi Khan",
     "main": "card.js",
